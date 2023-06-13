@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/smitmaruti/package-test/compare/v2.0.1...v2.0.2) (2023-06-13)
+
+
+### Bug Fixes
+
+* package dist dir ([3795dab](https://github.com/smitmaruti/package-test/commit/3795dab9587ca8fa7bb3727d44b13c548a038e1f))
+
 ### [2.0.1](https://github.com/smitmaruti/package-test/compare/v2.0.0...v2.0.1) (2023-06-13)
 
 ## [2.0.0](https://github.com/smitmaruti/package-test/compare/v1.4.0...v2.0.0) (2023-06-13)
