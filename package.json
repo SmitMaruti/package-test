@@ -19,6 +19,7 @@
         "build": "vite build",
         "preview": "vite preview",
         "release": "release-it",
+        "releaseCI": "release-it --ci",
         "prepublishOnly": "npm run build"
     },
     "author": "",
