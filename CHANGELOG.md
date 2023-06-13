@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/smitmaruti/package-test/compare/v1.1.3...v1.1.4) (2023-06-13)
+
+
+### Bug Fixes
+
+* hotfix 2 ([4053509](https://github.com/smitmaruti/package-test/commit/405350961e148878aad7c0494b379ac935d5518a))
+
 ### [1.1.3](https://github.com/smitmaruti/package-test/compare/v1.1.2...v1.1.3) (2023-06-13)
 
 
