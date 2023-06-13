@@ -1,7 +1,7 @@
 {
     "name": "@smitmaruti/package-test",
     "repository": "https://github.com/smitmaruti/package-test.git",
-    "version": "2.0.4",
+    "version": "2.1.0",
     "description": "",
     "files": [
         "dist"
