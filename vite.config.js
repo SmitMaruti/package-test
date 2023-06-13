@@ -5,8 +5,8 @@ module.exports = defineConfig({
     build: {
         lib: {
             entry: path.resolve(__dirname, "lib/main.js"),
-            name: "@smitmaruti/package-test",
-            fileName: (format) => `@smitmaruti/package-test.${format}.js`,
+            name: "package-test",
+            fileName: (format) => `package-test.${format}.js`,
         },
     },
 });

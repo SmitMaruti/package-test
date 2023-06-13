@@ -6,12 +6,12 @@
     "files": [
         "dist"
     ],
-    "main": "./dist/package-tes.umd.js",
-    "module": "./dist/package-tes.es.js",
+    "main": "./dist/package-test.umd.js",
+    "module": "./dist/package-test.es.js",
     "exports": {
         ".": {
-            "import": "./dist/package-tes.es.js",
-            "require": "./dist/package-tes.umd.js"
+            "import": "./dist/package-test.es.js",
+            "require": "./dist/package-test.umd.js"
         }
     },
     "scripts": {
