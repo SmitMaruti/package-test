@@ -6,10 +6,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [1.2.0](https://github.com/smitmaruti/package-test/compare/v1.1.0...v1.2.0) (2023-06-13)
 
-
 ### Features
 
-* added new console log ([55a3d35](https://github.com/smitmaruti/package-test/commit/55a3d35e12740b10bf5cf718c1ae8a342104054e))
+-   added new console log ([55a3d35](https://github.com/smitmaruti/package-test/commit/55a3d35e12740b10bf5cf718c1ae8a342104054e))
 
 ## [1.2.0](https://github.com/smitmaruti/package-test/compare/v1.1.0...v1.2.0) (2023-06-13)
 
