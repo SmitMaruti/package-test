@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/smitmaruti/package-test/compare/v1.4.0...v2.0.0) (2023-06-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* added package export
+
+### Features
+
+* added package export ([8578c62](https://github.com/smitmaruti/package-test/commit/8578c62a0fa65d1a7d7ca52c76763c8111afeb59))
+
+
+### Bug Fixes
+
+* hotfix 2 ([4053509](https://github.com/smitmaruti/package-test/commit/405350961e148878aad7c0494b379ac935d5518a))
+
 ## [1.4.0](https://github.com/smitmaruti/package-test/compare/v1.1.3...v1.4.0) (2023-06-13)
 
 ## [1.3.0](https://github.com/smitmaruti/package-test/compare/v1.1.2...v1.3.0) (2023-06-13)
